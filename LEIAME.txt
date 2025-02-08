@@ -1,4 +1,6 @@
-2 formas de Integrar o Python com Excel
+Olá, pessoal!
+
+Aqui temos 2 formas de Integração do Python com Excel
 
 1. Pandas
     - Mais usada no geral
@@ -11,3 +13,5 @@
     - Edita "como se fosse um VBA"
     - Menos eficiente
     - Mantém mais a estrutura original do arquivo, mas cuidado porque não necessariamente tudo, então tem que testar
+
+Vamos lá?!
